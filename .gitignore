@@ -1,0 +1,71 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider-specific
+.idea/
+*.sln.iml
+
+## VS Code (if used)
+.vscode/
+
+## Auto-generated files
+*.dbmdl
+*.log
+*.pdb
+*.cache
+*.bak
+*.tmp
+
+## Dependency directories
+packages/
+node_modules/
+
+## ASP.NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Entity Framework Migrations
+Migrations/
+
+## dotnet CLI
+*.deps.json
+*.runtimeconfig.json
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+*.nuspec
+*.psmdcp
+*.package.config
+
+## User secrets
+secrets.json
+
+## Logs
+*.log
+
+## Environment files
+.env
+
+## Others
+_ReSharper*/
+*.DotSettings.user
+
+## OS-specific
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*.swp
+*~
